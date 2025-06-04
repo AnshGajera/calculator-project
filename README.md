@@ -24,10 +24,9 @@ This is a simple calculator application built using Python and the Tkinter libra
 
 2.  **Clone the Repository (or download the files):**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/calculator-project.git](https://github.com/YourGitHubUsername/calculator-project.git)
+    git clone [https://github.com/AnshGajera/calculator-project.git](https://github.com/YourGitHubUsername/calculator-project.git)
     cd calculator-project
     ```
-    (Replace `YourGitHubUsername` with your actual GitHub username)
 
 3.  **Run the application:**
     ```bash
@@ -36,10 +35,7 @@ This is a simple calculator application built using Python and the Tkinter libra
     (Or `python3 calculator_app.py` depending on your Python setup)
 
 ## Screenshots (Optional, but good to add later)
-*Include screenshots of your calculator in both light and dark themes here.*
-
-## Contributing
-Feel free to fork this repository, make improvements, and submit pull requests.
+![image](https://github.com/user-attachments/assets/6cc8815d-bc2a-4ffd-86ea-be795dda2664)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
