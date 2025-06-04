@@ -34,7 +34,7 @@ This is a simple calculator application built using Python and the Tkinter libra
     ```
     (Or `python3 calculator_app.py` depending on your Python setup)
 
-## Screenshots (Optional, but good to add later)
+## Screenshots 
 ![image](https://github.com/user-attachments/assets/6cc8815d-bc2a-4ffd-86ea-be795dda2664)
 
 ## License
