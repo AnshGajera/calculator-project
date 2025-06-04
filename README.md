@@ -24,7 +24,7 @@ This is a simple calculator application built using Python and the Tkinter libra
 
 2.  **Clone the Repository (or download the files):**
     ```bash
-    git clone [https://github.com/AnshGajera/calculator-project.git](https://github.com/YourGitHubUsername/calculator-project.git)
+    git clone [https://github.com/AnshGajera/calculator-project.git](https://github.com/AnshGajera/calculator-project.git)
     cd calculator-project
     ```
 
